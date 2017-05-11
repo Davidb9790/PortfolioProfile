@@ -226,6 +226,11 @@ hr.small {
 .call-to-action .btn {
     margin: 10px;
 }
+/*Try to put text over*/
+.overText{
+  font-size: large;
+
+  }
 
 /* Map */
 
